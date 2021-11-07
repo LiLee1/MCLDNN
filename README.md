@@ -1,3 +1,4 @@
+# 提出的算法可以很好区分同一模式下的信号16QAM和64QAM！！
 # A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition
 by Jialang Xu (e-mail: 504006937@qq.com), Chunbo Luo, Gerard Parr, Yang Luo.
 
